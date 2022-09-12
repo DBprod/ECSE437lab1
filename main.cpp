@@ -1,4 +1,5 @@
 // daniel bucci (260924225) ahmad siddiqi (260926826)
+// daniel.bucci@mail.mcgill.ca ahmad.siddiqi@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
